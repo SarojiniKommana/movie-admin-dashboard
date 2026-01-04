@@ -65,10 +65,10 @@ It includes real-world admin features like analytics, scheduling, task managemen
 ![Calendar](./src/assets/Calendar.png)
 
 ### Kanban Board
-![Kanban Board](./src/assets/kanban.png)
+![Kanban Board](./src/assets/Kanban.png)
 
 ### Analytics
 ![Analytics](./src/assets/Analytics.png)
 
 ### Bookings Table
-![Bookings Table](./src/assets/tables.png)
+![Bookings Table](./src/assets/Tables.png)

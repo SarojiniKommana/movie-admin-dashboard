@@ -55,6 +55,10 @@ It includes real-world admin features like analytics, scheduling, task managemen
 
 ---
 ---
+## 🚀 Live Demo
+
+🔗 **View Live App:** [https://movie-admin-dashboard-ruddy.vercel.app](https://movie-admin-dashboard-ruddy.vercel.app)
+
 
 ## 🖼️ Screenshots
 
